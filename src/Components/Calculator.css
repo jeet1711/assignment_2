@@ -1,0 +1,17 @@
+button {
+    width: 4.5%;
+    height: 3rem;
+}
+
+div {
+    height: 100vh;
+    background-color: lightseagreen;
+}
+
+input {
+    width: 12%;
+}
+
+.reset-button {
+    width: auto;
+}
